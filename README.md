@@ -1,12 +1,10 @@
 # Investment-Behavior-Dashboard-Power-BI-
 Power BI dashboard analyzing investor behavior, preferences, and expected returns using DAX measures, KPIs, and interactive visuals to uncover key financial insights. 
-Tags: PowerBI, data-analytics, business-intelligence, finance, data visualization, dax, dashboard, portfolio-project
+Tags: Power BI, data analytics, business intelligence, finance, data visualization, dax, dashboard, portfolio-project
 
 # 🎯 Project Overview
 The **Investment Behavior Dashboard** explores investor preferences, objectives, and expected returns through data visualization in **Microsoft Power BI**.  
-It highlights behavioral patterns based on gender, age, duration, and investment types, helping financial analysts identify where investors allocate most funds and what motivates their decisions.
-
----
+It highlights behavioral patterns by gender, age, duration, and investment type, helping financial analysts identify where investors allocate their funds and what motivates their decisions.
 
 ## 📁 Dataset Information
 - **File:** Finance_Data.csv  
